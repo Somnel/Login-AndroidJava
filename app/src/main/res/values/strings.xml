@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login - AndroidJava</string>
+    <string name="loginBtn">ENTRAR</string>
+    <string name="loginTitulo">LOGIN</string>
+    <string name="loginEmailHint">Email</string>
+    <string name="loginSenhaHint">Senha</string>
+    <string name="loginLogoTexto">LOGO</string>
+    <string name="loginBtnTexto">Botão de Login</string>
+</resources>
